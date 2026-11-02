@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="720" viewBox="0 0 720 720" role="img" aria-labelledby="title desc"><title id="title">Fawad Khan — AI Engineer</title><desc id="desc">A mobile code-editor identity showing Fawad Khan, Python, Java, TypeScript, JavaScript, Django, FastAPI, and React.</desc><style>@media(prefers-reduced-motion:reduce){.motion{display:none}}</style>
+<rect x="1" y="1" width="718" height="718" rx="14" fill="#0b0f15" stroke="#2b3544" stroke-width="2"/>
+<path d="M15 1H705Q719 1 719 15V58H1V15Q1 1 15 1" fill="#111720"/>
+<g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace"><text x="30" y="38" fill="#edf2fa" font-size="22" >py  profile.py</text><text x="690" y="38" fill="#d1fc79" font-size="18" text-anchor="end">main</text><text x="38" y="111" fill="#d1fc79" font-size="24" letter-spacing="2">AI ENGINEER</text></g>
+<g font-family="Arial, Helvetica, sans-serif"><text x="32" y="204" fill="#edf2fa" font-size="83" font-weight="800" letter-spacing="-4">Fawad Khan</text><text x="494" y="204" fill="#d1fc79" font-size="83" font-weight="800">.</text></g>
+<g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace"><text x="38" y="250" fill="#98a7ba" font-size="22" >models → systems → useful software</text>
+<path d="M38 280H682" stroke="#2b3544"/>
+<text x="38" y="329" fill="#bc9bff" font-size="25" >class FawadKhan:</text>
+<text x="67" y="373" fill="#d1fc79" font-size="23" >role = &quot;AI Engineer&quot;</text>
+<text x="67" y="415" fill="#8bc6ff" font-size="22" >languages = [&quot;Python&quot;, &quot;Java&quot;,</text>
+<text x="111" y="449" fill="#d1fc79" font-size="22" >&quot;TypeScript&quot;, &quot;JavaScript&quot;]</text>
+<text x="67" y="491" fill="#8bc6ff" font-size="22" >backend = [&quot;Django&quot;, &quot;FastAPI&quot;]</text>
+<text x="67" y="533" fill="#8bc6ff" font-size="22" >frontend = [&quot;React&quot;]</text>
+<path d="M1 571H719" stroke="#2b3544"/>
+<text x="38" y="607" fill="#65758a" font-size="16" letter-spacing="2">TERMINAL / AI WORKFLOWS</text>
+<text x="38" y="650" fill="#d1fc79" font-size="22" >$ connecting models, data &amp; tools</text>
+<rect class="motion" x="482" y="630" width="12" height="24" fill="#d1fc79"><animate attributeName="opacity" values="1;0" calcMode="discrete" dur="1.2s" repeatCount="indefinite"/></rect>
+<text x="38" y="696" fill="#98a7ba" font-size="17" >MFAI-Developer</text><text x="682" y="696" fill="#65758a" font-size="15" text-anchor="end">PYTHON · JAVA · DJANGO</text></g></svg>
