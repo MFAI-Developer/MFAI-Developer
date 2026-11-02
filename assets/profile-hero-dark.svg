@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Fawad Khan — AI Engineer</title>
+<desc id="desc">Building AI for real workflows. Generative AI, RAG, voice, and automation.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1825"/><stop offset="1" stop-color="#101D2B"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#6CE5CD"/><stop offset="1" stop-color="#77B5F8"/></linearGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#84A8B8" stroke-opacity=".06"/></pattern>
+</defs>
+<rect width="1200" height="360" rx="18" fill="url(#bg)"/>
+<rect x="750" width="450" height="360" rx="18" fill="url(#grid)"/>
+<path d="M52 0H1148" stroke="url(#accent)" stroke-width="3"/>
+<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+  <text x="58" y="56" fill="#89A7B8" font-size="13" font-weight="600" letter-spacing="3">MFAI-DEVELOPER</text>
+  <text x="58" y="137" fill="#F0F6FC" font-size="64" font-weight="700" letter-spacing="-2">Fawad Khan<tspan fill="#6CE5CD">.</tspan></text>
+  <text x="61" y="179" fill="#6CE5CD" font-size="22" font-weight="500" letter-spacing="1">AI ENGINEER</text>
+  <text x="61" y="229" fill="#C6D6E2" font-size="25" font-weight="400">Building AI for real workflows.</text>
+  <path d="M61 262H711" stroke="#29404F"/>
+  <text x="61" y="302" fill="#9FB6C6" font-size="13" font-weight="500" letter-spacing="1.5">GENERATIVE AI</text>
+  <circle cx="219" cy="297" r="2" fill="#6CE5CD"/>
+  <text x="242" y="302" fill="#9FB6C6" font-size="13" font-weight="500" letter-spacing="1.5">RAG</text>
+  <circle cx="299" cy="297" r="2" fill="#6CE5CD"/>
+  <text x="322" y="302" fill="#9FB6C6" font-size="13" font-weight="500" letter-spacing="1.5">VOICE</text>
+  <circle cx="396" cy="297" r="2" fill="#6CE5CD"/>
+  <text x="419" y="302" fill="#9FB6C6" font-size="13" font-weight="500" letter-spacing="1.5">AUTOMATION</text>
+</g>
+<g fill="none" stroke="#355568" stroke-width="1.5">
+  <rect x="862" y="88" width="202" height="202" rx="38" transform="rotate(-18 963 189)"/>
+  <rect x="890" y="116" width="146" height="146" rx="29" transform="rotate(18 963 189)"/>
+  <path d="M800 189H903M1023 189H1128M963 50V129M963 249V322"/>
+</g>
+<rect x="903" y="129" width="120" height="120" rx="24" fill="#142D3C" stroke="#4E8F99"/>
+<g stroke="url(#accent)" stroke-width="3" stroke-linecap="round" fill="none">
+  <path d="M938 173L925 189L938 205M988 173L1001 189L988 205M971 168L955 210"/>
+</g>
+<g fill="#6CE5CD"><circle cx="800" cy="189" r="4"/><circle cx="1128" cy="189" r="4"/><circle cx="963" cy="50" r="4"/><circle cx="963" cy="322" r="4"/></g>
+</svg>
